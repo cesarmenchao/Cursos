@@ -8,8 +8,14 @@ namespace VideoAula
 {
     internal class Program
     {
+        //enum enumeraçao de valores
+        enum carro {palio, gol, fusca, variant }
+
         static void Main(string[] args)
         {
+            carro carroJulio = carro.palio; //puxei o enum e o valor dele com o ponto
+            Console.WriteLine((int)carroJulio); // com o parenteses informei parar puxar o valor inteiro da variavel carroJulio, convertendo de string para o valor da enumeraçao do enum.
+
             // esta puxando a funçao soma la em baixo
             /*int conta = Soma(20, 30);
             int resultado = Soma(99, 584);
@@ -35,7 +41,7 @@ namespace VideoAula
             */
 
             //switch basico usando string
-            string cor = "cinza";
+          /*  string cor = "cinza";
             switch (cor)
             {
                 case "vermelho":
@@ -53,7 +59,13 @@ namespace VideoAula
                     break;
 
                     
-            }
+            }*/
+                //enum
+
+
+
+
+
             Console.ReadLine();
         }
 
