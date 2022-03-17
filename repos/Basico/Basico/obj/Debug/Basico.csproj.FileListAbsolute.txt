@@ -1,0 +1,8 @@
+C:\Users\Caviuna\source\repos\Basico\Basico\bin\Debug\Basico.exe.config
+C:\Users\Caviuna\source\repos\Basico\Basico\bin\Debug\Basico.exe
+C:\Users\Caviuna\source\repos\Basico\Basico\bin\Debug\Basico.pdb
+C:\Users\Caviuna\source\repos\Basico\Basico\obj\Debug\Basico.csproj.AssemblyReference.cache
+C:\Users\Caviuna\source\repos\Basico\Basico\obj\Debug\Basico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caviuna\source\repos\Basico\Basico\obj\Debug\Basico.csproj.CoreCompileInputs.cache
+C:\Users\Caviuna\source\repos\Basico\Basico\obj\Debug\Basico.exe
+C:\Users\Caviuna\source\repos\Basico\Basico\obj\Debug\Basico.pdb

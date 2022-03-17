@@ -1,0 +1,8 @@
+C:\Users\Caviuna\source\repos\VideoAula\VideoAula\bin\Debug\VideoAula.exe.config
+C:\Users\Caviuna\source\repos\VideoAula\VideoAula\bin\Debug\VideoAula.exe
+C:\Users\Caviuna\source\repos\VideoAula\VideoAula\bin\Debug\VideoAula.pdb
+C:\Users\Caviuna\source\repos\VideoAula\VideoAula\obj\Debug\VideoAula.csproj.AssemblyReference.cache
+C:\Users\Caviuna\source\repos\VideoAula\VideoAula\obj\Debug\VideoAula.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caviuna\source\repos\VideoAula\VideoAula\obj\Debug\VideoAula.csproj.CoreCompileInputs.cache
+C:\Users\Caviuna\source\repos\VideoAula\VideoAula\obj\Debug\VideoAula.exe
+C:\Users\Caviuna\source\repos\VideoAula\VideoAula\obj\Debug\VideoAula.pdb
