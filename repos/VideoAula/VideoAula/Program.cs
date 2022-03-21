@@ -85,14 +85,23 @@ namespace VideoAula
 
              }*/
 
-            int contador = 0;
-            while (contador < 20)
+            /*
+                 int contador = 0;
+             while (contador < 20)
+             {
+                 Console.WriteLine(contador + 1);
+                 Console.WriteLine("rodando while"); 
+                 contador++;
+             }
+                 Console.WriteLine("fim da linha");
+             */
+
+            string[] palavras = { "eu", "vou", "comer", "seu", "cu", "no", "uno" };
+            foreach (string palavra in palavras) //para cada palavra no array palavras, repita o bloco de codigo
             {
-                Console.WriteLine(contador + 1);
-                Console.WriteLine("rodando while"); 
-                contador++;
+                Console.WriteLine(palavra);
+                Console.WriteLine("Fim do foreach");
             }
-                Console.WriteLine("fim da linha");
 
 
             Console.ReadLine();
