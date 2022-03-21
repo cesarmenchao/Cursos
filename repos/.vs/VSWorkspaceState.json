@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\VideoAula",
+    "\\VideoAula\\VideoAula"
   ],
-  "SelectedNode": "\\Basico.sln",
+  "SelectedNode": "\\VideoAula\\VideoAula\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

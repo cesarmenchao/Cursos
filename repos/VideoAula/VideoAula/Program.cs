@@ -62,31 +62,37 @@ namespace VideoAula
 
               }*/
 
-            Console.WriteLine("Selecione um das opções abaixo");
-            Console.WriteLine("1-Incluir\n2-Excluir\n3-Alterar\n4-Listar\n5-Atualizar");
-                int index = int.Parse(Console.ReadLine());
-                 Opcao opcaoSelecionada = (Opcao)index;
-             switch (opcaoSelecionada)
+            /* Console.WriteLine("Selecione um das opções abaixo");
+             Console.WriteLine("1-Incluir\n2-Excluir\n3-Alterar\n4-Listar\n5-Atualizar");
+                 int index = int.Parse(Console.ReadLine());
+                  Opcao opcaoSelecionada = (Opcao)index;
+              switch (opcaoSelecionada)
+             {
+                 case Opcao.Incluir:
+                     Console.WriteLine("Você quer incluir algo!!");
+                     break;
+                 case Opcao.Excluir:
+                     Console.WriteLine("Oque deseja excluir?");
+                     break;
+                 case Opcao.Alterar:
+                     Console.WriteLine("Oque deseja incluir?");
+                     break;
+
+                 default:
+                     Console.WriteLine("Opçao nao encontrada!!");
+                     break;
+
+
+             }*/
+
+            int contador = 0;
+            while (contador < 20)
             {
-                case Opcao.Incluir:
-                    Console.WriteLine("Você quer incluir algo!!");
-                    break;
-                case Opcao.Excluir:
-                    Console.WriteLine("Oque deseja excluir?");
-                    break;
-                case Opcao.Alterar:
-                    Console.WriteLine("Oque deseja incluir?");
-                    break;
-
-                default:
-                    Console.WriteLine("Opçao nao encontrada!!");
-                    break;
-
-
+                Console.WriteLine(contador + 1);
+                Console.WriteLine("rodando while"); 
+                contador++;
             }
-            
-
-
+                Console.WriteLine("fim da linha");
 
 
             Console.ReadLine();
