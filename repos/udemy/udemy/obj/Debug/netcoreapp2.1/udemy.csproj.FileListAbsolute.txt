@@ -1,0 +1,13 @@
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\bin\Debug\netcoreapp2.1\udemy.deps.json
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\bin\Debug\netcoreapp2.1\udemy.runtimeconfig.json
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\bin\Debug\netcoreapp2.1\udemy.runtimeconfig.dev.json
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\bin\Debug\netcoreapp2.1\udemy.dll
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\bin\Debug\netcoreapp2.1\udemy.pdb
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\obj\Debug\netcoreapp2.1\udemy.csproj.AssemblyReference.cache
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\obj\Debug\netcoreapp2.1\udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\obj\Debug\netcoreapp2.1\udemy.AssemblyInfoInputs.cache
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\obj\Debug\netcoreapp2.1\udemy.AssemblyInfo.cs
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\obj\Debug\netcoreapp2.1\udemy.csproj.CoreCompileInputs.cache
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\obj\Debug\netcoreapp2.1\udemy.dll
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\obj\Debug\netcoreapp2.1\udemy.pdb
+C:\Users\Caviuna\Documents\GitHub\udemy\udemy\obj\Debug\netcoreapp2.1\udemy.genruntimeconfig.cache
