@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X/B4JfgMlkRoG+jhyS2jnUMpo6swTpZd+A4pm8myvOp7oh2ax0KeLUn2OH1d1nQNS8SNSyVtlcC0hTaWTjm/8A==",
+  "dgSpecHash": "ouQMdqZgpIIbx4OQN8nPkp/zRk+/u97InTkB8WEPnZCTpw6o7bOwBV93l7ReisyaIwE2bSluS2/Q5v7XNoPzBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caviuna\\Documents\\GitHub\\udemy\\udemy\\udemy.csproj",
+  "projectFilePath": "C:\\Users\\Caviuna\\Documents\\GitHub\\Cursos\\repos\\udemy\\udemy\\udemy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caviuna\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Caviuna\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

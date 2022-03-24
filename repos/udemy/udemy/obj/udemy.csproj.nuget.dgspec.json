@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caviuna\\Documents\\GitHub\\udemy\\udemy\\udemy.csproj": {}
+    "C:\\Users\\Caviuna\\Documents\\GitHub\\Cursos\\repos\\udemy\\udemy\\udemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caviuna\\Documents\\GitHub\\udemy\\udemy\\udemy.csproj": {
+    "C:\\Users\\Caviuna\\Documents\\GitHub\\Cursos\\repos\\udemy\\udemy\\udemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caviuna\\Documents\\GitHub\\udemy\\udemy\\udemy.csproj",
+        "projectUniqueName": "C:\\Users\\Caviuna\\Documents\\GitHub\\Cursos\\repos\\udemy\\udemy\\udemy.csproj",
         "projectName": "udemy",
-        "projectPath": "C:\\Users\\Caviuna\\Documents\\GitHub\\udemy\\udemy\\udemy.csproj",
+        "projectPath": "C:\\Users\\Caviuna\\Documents\\GitHub\\Cursos\\repos\\udemy\\udemy\\udemy.csproj",
         "packagesPath": "C:\\Users\\Caviuna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caviuna\\Documents\\GitHub\\udemy\\udemy\\obj\\",
+        "outputPath": "C:\\Users\\Caviuna\\Documents\\GitHub\\Cursos\\repos\\udemy\\udemy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
