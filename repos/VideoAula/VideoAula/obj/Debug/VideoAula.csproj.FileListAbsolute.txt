@@ -10,7 +10,6 @@ C:\Users\Caviuna\Documents\GitHub\Cursos\repos\VideoAula\VideoAula\bin\Debug\Vid
 C:\Users\Caviuna\Documents\GitHub\Cursos\repos\VideoAula\VideoAula\bin\Debug\VideoAula.exe
 C:\Users\Caviuna\Documents\GitHub\Cursos\repos\VideoAula\VideoAula\bin\Debug\VideoAula.pdb
 C:\Users\Caviuna\Documents\GitHub\Cursos\repos\VideoAula\VideoAula\obj\Debug\VideoAula.csproj.AssemblyReference.cache
-C:\Users\Caviuna\Documents\GitHub\Cursos\repos\VideoAula\VideoAula\obj\Debug\VideoAula.csproj.SuggestedBindingRedirects.cache
 C:\Users\Caviuna\Documents\GitHub\Cursos\repos\VideoAula\VideoAula\obj\Debug\VideoAula.csproj.CoreCompileInputs.cache
 C:\Users\Caviuna\Documents\GitHub\Cursos\repos\VideoAula\VideoAula\obj\Debug\VideoAula.exe
 C:\Users\Caviuna\Documents\GitHub\Cursos\repos\VideoAula\VideoAula\obj\Debug\VideoAula.pdb
