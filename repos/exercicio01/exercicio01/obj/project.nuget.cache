@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0V70UBOhOxx7cHzWUrty+A06pp89lWHK7NWLQAZB9/pz+VWaK9I/qDA6o2JkBb3XXxHdg+iK7XNyOgfkBywaJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caviuna\\Documents\\GitHub\\Cursos\\repos\\exercicio01\\exercicio01\\exercicio01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caviuna\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Caviuna\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Caviuna\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Caviuna\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Caviuna\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Caviuna\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Caviuna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

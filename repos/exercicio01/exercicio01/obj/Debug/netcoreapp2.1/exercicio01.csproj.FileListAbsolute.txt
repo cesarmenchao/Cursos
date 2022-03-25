@@ -1,0 +1,13 @@
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\bin\Debug\netcoreapp2.1\exercicio01.deps.json
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\bin\Debug\netcoreapp2.1\exercicio01.runtimeconfig.json
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\bin\Debug\netcoreapp2.1\exercicio01.runtimeconfig.dev.json
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\bin\Debug\netcoreapp2.1\exercicio01.dll
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\bin\Debug\netcoreapp2.1\exercicio01.pdb
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\obj\Debug\netcoreapp2.1\exercicio01.csproj.AssemblyReference.cache
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\obj\Debug\netcoreapp2.1\exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\obj\Debug\netcoreapp2.1\exercicio01.AssemblyInfoInputs.cache
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\obj\Debug\netcoreapp2.1\exercicio01.AssemblyInfo.cs
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\obj\Debug\netcoreapp2.1\exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\obj\Debug\netcoreapp2.1\exercicio01.dll
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\obj\Debug\netcoreapp2.1\exercicio01.pdb
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\exercicio01\exercicio01\obj\Debug\netcoreapp2.1\exercicio01.genruntimeconfig.cache
