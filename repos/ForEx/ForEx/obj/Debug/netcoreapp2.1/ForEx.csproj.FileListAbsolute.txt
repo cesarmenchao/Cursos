@@ -1,0 +1,13 @@
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\bin\Debug\netcoreapp2.1\ForEx.deps.json
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\bin\Debug\netcoreapp2.1\ForEx.runtimeconfig.json
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\bin\Debug\netcoreapp2.1\ForEx.runtimeconfig.dev.json
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\bin\Debug\netcoreapp2.1\ForEx.dll
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\bin\Debug\netcoreapp2.1\ForEx.pdb
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\obj\Debug\netcoreapp2.1\ForEx.csproj.AssemblyReference.cache
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\obj\Debug\netcoreapp2.1\ForEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\obj\Debug\netcoreapp2.1\ForEx.AssemblyInfoInputs.cache
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\obj\Debug\netcoreapp2.1\ForEx.AssemblyInfo.cs
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\obj\Debug\netcoreapp2.1\ForEx.csproj.CoreCompileInputs.cache
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\obj\Debug\netcoreapp2.1\ForEx.dll
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\obj\Debug\netcoreapp2.1\ForEx.pdb
+C:\Users\Caviuna\Documents\GitHub\Cursos\repos\ForEx\ForEx\obj\Debug\netcoreapp2.1\ForEx.genruntimeconfig.cache
